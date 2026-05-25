@@ -77,7 +77,7 @@ docker compose ps
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7113df2b-4d46-4d26-b4d3-6bc99f4e0e72" />
 
 ### Bước 5: Cấu hình n8n
-#### Bước 5.1. Truy cập subdomain `https://n8n.nguyentrunghiieu.id.vn/` để tạo tài khoản và kích hoạt license
+#### Bước 5.1. Truy cập subdomain `https://n8n.viet6824.id.vn/` để tạo tài khoản và kích hoạt license
 ##### Điền các thông tin , đặc biệt email cần chính xác -> Next
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/764f61a2-f155-4a0b-85e5-ef91e6490ed2" />
