@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d15831c1-c1ae-4ba4-9150-1b13563de987" /># <p align="center">PHÁT TRIỂN ỨNG DỤNG VỚI MÃ NGUỒN MỞ (N8N + BOT TELEGRAM TỰ ĐỘNG)</p>
+# <p align="center">PHÁT TRIỂN ỨNG DỤNG VỚI MÃ NGUỒN MỞ (N8N + BOT TELEGRAM TỰ ĐỘNG)</p>
 
 **Môn học:** Phát triển ứng dụng với mã nguồn mở - TEE0421  
 
