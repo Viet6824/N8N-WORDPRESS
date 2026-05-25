@@ -29,7 +29,7 @@ Người dùng chỉ cần gửi nội dung qua Telegram Bot, hệ thống sẽ 
 - Sửa file `nano docker-compose.yml`
 - Thêm service n8n .
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29936315-3b57-42f4-b68a-c39b69a07673" />
+<img width="1920" height="1080" alt="Ảnh chụp màn hình (934)" src="https://github.com/user-attachments/assets/0b4651b0-4397-48ec-89cd-df45d12f2015" />
 
 #### Khởi động lại hệ thống
 ```
